@@ -1,0 +1,3 @@
+python-opencv
+pyzbar
+requests
